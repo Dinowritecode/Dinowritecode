@@ -1,4 +1,4 @@
-### Hi there 👋
+### 就是一个无聊的初中生 🦙
 
 <!--
 **Dinowritecode/Dinowritecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
