@@ -1,9 +1,10 @@
-    <p align="center">
+<p align="center">
 <img width="150" src="https://avatars.githubusercontent.com/u/114334287?v=4">
 <h2 align="center">Dinosaur.YH</h2>
 <p align="center">Love you forever❤❤❤</p>
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinowritecode&theme=dracula">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinowritecode&layout=compact&theme=dracula">
     我是一名学生开发者，编程是我的爱好，平时我会做一些小项目，目前我在前端语言以及cpp等语言很擅长，2023年，我加入了一个名为**DrawVictory Team**的团队，目前是团队里的程序组组长，团队主要面向**游戏开发，	Web，软件工具开发**等，期待未来我们能有所成就。😁😁😁
 
 ---
