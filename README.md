@@ -9,7 +9,7 @@
 <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=dinowritecode&theme=dracula&show_icons=true&locale=cn&hide_border=true">
 </a>
 <a href="https://space.bilibili.com/669442389">
-<img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinowritecode&layout=compact&theme=dracula&locale=cn&hide_border=true">
+<img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinowritecode&layout=compact&theme=dracula&locale=cn&hide_border=true&hide=java">
 </a>
 </p>
 
