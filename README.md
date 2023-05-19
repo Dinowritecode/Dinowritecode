@@ -1,5 +1,4 @@
 <p align="center">
-<img width="150" src="https://avatars.githubusercontent.com/u/114334287?v=4">
 <h2 align="center">Dinosaur.YH</h2>
 <p align="center">Love you forever❤❤❤</p>
 </p>
